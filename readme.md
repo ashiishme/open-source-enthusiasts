@@ -1,6 +1,9 @@
 <div align="center">
 <h1 style="border: 0;"> Open Source Enthusiasts </h1>
 
-COVID-19 Stats shows the current pandemic data based on user location as well as the global statistics. If you are tired of visiting different website to check the data, you can easily access it now from your browser with single click.
+Hacktoberfest 2020 movement to list out all the open source enthusiasts in one place. Want to make your PR count for Hacktoberfest? Add yourself in the list.
 </div>
 
+## Welcome Devotees :wink:
+
+It doesn't matter if you are an experienced engineer or a fresher. If you have interest in open-source. Start your journey by sending your first PR.
