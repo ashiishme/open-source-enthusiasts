@@ -12,6 +12,7 @@ It doesn't matter if you are an experienced engineer or a fresher. If you have i
 ## Devotees
 
 - [Ashish Yadav](https://github.com/ashiishme)
+- [Quest-360](https://github.com/Quest-360)
 
 ## Contributing
 
