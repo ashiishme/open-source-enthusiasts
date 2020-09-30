@@ -15,7 +15,7 @@ It doesn't matter if you are an experienced engineer or a fresher. If you have i
 - [Quest-360](https://github.com/Quest-360)
 - [Binit Ghimire](https://github.com/TheBinitGhimire)
 - [Akas Rai](https://github.com/akasrai)
-
+- [Bibek Shah](https://github.com/b1bek)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
