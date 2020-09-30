@@ -22,4 +22,4 @@ To contribute or add yourself in the list. Follow the steps below:
 - Add your `full name` ( Include your GitHub link as well ) under the list of [Devotees](#devotees) section
 - Send a Pull Request
 
-Wait :worried:, read the CONTRIBUTING.md before sending the PR.
+Wait :worried:, read the [CONTRIBUTING.md](https://github.com/ashiishme/open-source-enthusiasts/blob/main/CONTRIBUTING.md) before sending the PR.
