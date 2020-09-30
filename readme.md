@@ -12,6 +12,7 @@ It doesn't matter if you are an experienced engineer or a fresher. If you have i
 ## Devotees
 
 - [Ashish Yadav](https://github.com/ashiishme)
+- [Binit Ghimire](https://github.com/TheBinitGhimire)
 
 ## Contributing
 
