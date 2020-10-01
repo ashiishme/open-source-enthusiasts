@@ -41,6 +41,7 @@ And, don't forget to give a :star:.
 - [Adiksha Sood](https://github.com/adiksha20)
 - [Madan Poudel](https://github.com/madanPS)
 - [Soel Karki](https://github.com/IamSoel)
+- [Ranjan Shrestha](https://github.com/ranjan435)
 
 ## Contributing
 
