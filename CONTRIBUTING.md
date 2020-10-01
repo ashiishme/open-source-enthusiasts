@@ -2,7 +2,7 @@
 
 Contributions, issues and feature requests are very welcome.  If you want make some changes / improvement in this project, please considering opening an issues first.
 
-If you want to contribute you must read and accept out Code of Conduct
+If you want to contribute you must read and accept out Code of Conduct.
 
 # Guidelines
 
