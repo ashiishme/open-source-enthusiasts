@@ -30,6 +30,7 @@ And, don't forget to give a :star:.
 - [Anish Ghimire](https://github.com/anishghimire603)
 - [Sadeep Nanda](https://github.com/SadeepNanda)
 - [Sudarshan Rai](https://github.com/mrsudarshanrai)
+- [Manas Sharma](https://github.com/Manas-E)
 
 ## Contributing
 
