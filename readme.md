@@ -48,7 +48,7 @@ And, don't forget to give a :star:.
 - [Dipesh Chapagain](https://github.com/itsmedipuu)
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
-
+- [Mahee Jaiswal](https://github.com/Maheejaiswal)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
