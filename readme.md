@@ -49,7 +49,8 @@ And, don't forget to give a :star:.
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
--(Aneesh Pyakurel)(https://github.com/Aneesh-design)
+- [Aneesh Pyakurel](https://github.com/Aneesh-design)
+- [Prasant Paudel](https://github.com/prasant7878)
 
 ## Contributing
 
