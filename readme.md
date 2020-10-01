@@ -55,6 +55,7 @@ And, don't forget to give a :star:.
 - [Gaurav Jaiswal](https://github.com/Gaurav-Zaiswal)
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
+- [S Sidharth](https://github.com/binarymatter)
 
 ## Contributing
 
