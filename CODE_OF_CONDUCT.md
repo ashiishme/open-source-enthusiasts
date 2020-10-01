@@ -26,7 +26,7 @@ community include:
 * Focusing on what is best not just for us as individuals, but for the
   overall community
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behaviour include:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
@@ -59,7 +59,7 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the community leaders responsible for enforcement at
 contact@ashiish.me.
 All complaints will be reviewed and investigated promptly and fairly.
