@@ -22,6 +22,7 @@ And, don't forget to give a :star:.
 - [Bibek Shah](https://github.com/b1bek)
 - [Tejan Singh](https://github.com/tejan-singh)
 - [Rachel Johnson](https://github.com/rachelktyjohnson)
+- [Sadeep Nanda](https://github.com/SadeepNanda)
 
 ## Contributing
 
