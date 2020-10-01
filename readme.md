@@ -31,6 +31,7 @@ And, don't forget to give a :star:.
 - [Sadeep Nanda](https://github.com/SadeepNanda)
 - [Sudarshan Rai](https://github.com/mrsudarshanrai)
 - [Manas Sharma](https://github.com/Manas-E)
+- [Andikha Dian Nugraha](https://github.com/andikhadian)
 
 ## Contributing
 
