@@ -35,6 +35,7 @@ And, don't forget to give a :star:.
 - [Natasha Mathew](https://github.com/Natasha1305)
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [ImanMohi](https://github.com/ImanMohi)
+- [Peter Haddad](https://github.com/peterhdd)
 
 ## Contributing
 
