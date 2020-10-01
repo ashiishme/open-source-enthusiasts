@@ -1,8 +1,10 @@
 # Contributing
 
+
 Contributions, issues and feature requests are very welcomed.  If you want make some changes / improvements in this project, please consider opening an issue first.
 
 If you want to contribute, you must read and accept our Code of Conduct.
+
 
 # Guidelines
 
