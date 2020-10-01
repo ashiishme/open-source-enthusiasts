@@ -39,8 +39,17 @@ And, don't forget to give a :star:.
 - [Baibhav Anand](https://github.com/baibhavanand)
 - [Jobin Keecheril](https://github.com/jobinkeecheril)
 - [Adiksha Sood](https://github.com/adiksha20)
+- [Prakash Tiwari](https://github.com/prakash901)
 - [Madan Poudel](https://github.com/madanPS)
 - [Soel Karki](https://github.com/IamSoel)
+- [Ranjan Shrestha](https://github.com/ranjan435)
+- [Pawan Bantawa](https://github.com/bantawa04)
+- [Kunal Sah](https://github.com/Kunalsah29)
+- [Dipesh Chapagain](https://github.com/itsmedipuu)
+- [The Sewak](https://github.com/thesewak)
+- [Dilip Paudel](https://github.com/dlppdl)
+- [Aagan Maskey](https://github.com/aaganmaskey)
+-(Aneesh Pyakurel)(https://github.com/Aneesh-design)
 - [Gaurav Jaiswal](https://github.com/Gaurav-Zaiswal)
 
 ## Contributing
