@@ -9,6 +9,8 @@ Hacktoberfest 2020 movement to list out all the open source enthusiasts in one p
 
 It doesn't matter if you are an experienced engineer or a fresher. If you have interest in open-source. Start your journey by sending your first PR. Check [Contributing](#contributing).
 
+And, don't forget to give a :star:.
+
 ## Devotees
 
 - [Ashish Yadav](https://github.com/ashiishme)
