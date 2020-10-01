@@ -43,6 +43,7 @@ And, don't forget to give a :star:.
 - [Madan Poudel](https://github.com/madanPS)
 - [Soel Karki](https://github.com/IamSoel)
 - [Ranjan Shrestha](https://github.com/ranjan435)
+- [Aagan Maskey](https://github.com/aaganmaskey)
 
 ## Contributing
 
