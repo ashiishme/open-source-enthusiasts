@@ -25,6 +25,7 @@ And, don't forget to give a :star:.
 - [Sagar karki](https://github.com/bytesagar)
 - [Mon Pacleb](https://github.com/bananaKetchup)
 - [Ravi Gupta](https://github.com/guptaravi540)
+- [Kevin Simmons](https://github.com/climbingryan)
 
 ## Contributing
 
