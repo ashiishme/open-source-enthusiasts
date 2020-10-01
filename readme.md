@@ -16,6 +16,7 @@ And, don't forget to give a :star:.
 - [Ashish Yadav](https://github.com/ashiishme)
 - [Quest-360](https://github.com/Quest-360)
 - [Binit Ghimire](https://github.com/TheBinitGhimire)
+- [Onkar Nardekar](https://github.com/OmiGitProjects)
 - [Akas Rai](https://github.com/akasrai)
 - [Parijat Dhar](https://github.com/ParijatDhar97)
 - [Md Rasel Bhuyan](https://github.com/Ph4nToM-R4Y)
@@ -27,6 +28,13 @@ And, don't forget to give a :star:.
 - [Ravi Gupta](https://github.com/guptaravi540)
 - [Kevin Simmons](https://github.com/climbingryan)
 - [Anish Ghimire](https://github.com/anishghimire603)
+- [Sadeep Nanda](https://github.com/SadeepNanda)
+- [Sudarshan Rai](https://github.com/mrsudarshanrai)
+- [Manas Sharma](https://github.com/Manas-E)
+- [Andikha Dian Nugraha](https://github.com/andikhadian)
+- [Natasha Mathew](https://github.com/Natasha1305)
+- [Pradhumn Dave](https://github.com/davedevelopers)
+- [ImanMohi](https://github.com/ImanMohi)
 - [Peter Haddad](https://github.com/peterhdd)
 
 ## Contributing
