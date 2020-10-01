@@ -24,6 +24,7 @@ And, don't forget to give a :star:.
 - [Rachel Johnson](https://github.com/rachelktyjohnson)
 - [Sagar karki](https://github.com/bytesagar)
 - [Mon Pacleb](https://github.com/bananaKetchup)
+- [Natasha Mathew](https://github.com/Natasha1305)
 
 ## Contributing
 
