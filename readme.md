@@ -39,7 +39,7 @@ And, don't forget to give a :star:.
 - [Baibhav Anand](https://github.com/baibhavanand)
 - [Jobin Keecheril](https://github.com/jobinkeecheril)
 - [Adiksha Sood](https://github.com/adiksha20)
-
+- [Ranjan Shrestha](https://github.com/ranjan435)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
