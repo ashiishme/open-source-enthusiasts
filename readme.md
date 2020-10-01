@@ -50,6 +50,7 @@ And, don't forget to give a :star:.
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
+- [Prasant Paudel](https://github.com/prasant7878)
 
 ## Contributing
 
