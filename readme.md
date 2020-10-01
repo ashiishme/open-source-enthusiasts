@@ -18,6 +18,7 @@ It doesn't matter if you are an experienced engineer or a fresher. If you have i
 - [Parijat Dhar](https://github.com/ParijatDhar97)
 - [Md Rasel Bhuyan](https://github.com/Ph4nToM-R4Y)
 - [Bibek Shah](https://github.com/b1bek)
+- [Rachel Johnson](https://github.com/rachelktyjohnson)
 
 ## Contributing
 
