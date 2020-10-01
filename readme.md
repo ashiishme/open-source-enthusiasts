@@ -36,6 +36,7 @@ And, don't forget to give a :star:.
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [ImanMohi](https://github.com/ImanMohi)
 - [Peter Haddad](https://github.com/peterhdd)
+- [Adiksha Sood](https://github.com/adiksha20)
 
 ## Contributing
 
