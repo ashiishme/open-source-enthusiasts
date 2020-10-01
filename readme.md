@@ -28,6 +28,7 @@ And, don't forget to give a :star:.
 - [Kevin Simmons](https://github.com/climbingryan)
 - [Anish Ghimire](https://github.com/anishghimire603)
 - [Sadeep Nanda](https://github.com/SadeepNanda)
+- [Sudarshan Rai](https://github.com/mrsudarshanrai)
 
 ## Contributing
 
