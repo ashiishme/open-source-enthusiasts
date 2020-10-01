@@ -33,6 +33,7 @@ And, don't forget to give a :star:.
 - [Manas Sharma](https://github.com/Manas-E)
 - [Andikha Dian Nugraha](https://github.com/andikhadian)
 - [Natasha Mathew](https://github.com/Natasha1305)
+- [Pradhumn Dave](https://github.com/davedevelopers)
 
 ## Contributing
 
