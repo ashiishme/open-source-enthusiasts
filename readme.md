@@ -23,6 +23,7 @@ And, don't forget to give a :star:.
 - [Tejan Singh](https://github.com/tejan-singh)
 - [Rachel Johnson](https://github.com/rachelktyjohnson)
 - [Sagar karki](https://github.com/bytesagar)
+- [Mon Pacleb](https://github.com/bananaKetchup)
 
 ## Contributing
 
