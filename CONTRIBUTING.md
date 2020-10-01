@@ -1,8 +1,8 @@
 # Contributing
 
-Contributions, issues and feature requests are very welcome.  If you want make some changes / improvement in this project, please considering opening an issues first.
+Contributions, issues and feature requests are welcome.  If you want make some changes / improvement in this project, please consider opening an issues first.
 
-If you want to contribute you must read and accept out Code of Conduct
+If you want to contribute, you must read and accept out Code of Conduct
 
 # Guidelines
 

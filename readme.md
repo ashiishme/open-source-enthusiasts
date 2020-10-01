@@ -22,6 +22,7 @@ And, don't forget to give a :star:.
 - [Md Rasel Bhuyan](https://github.com/Ph4nToM-R4Y)
 - [Bibek Shah](https://github.com/b1bek)
 - [Tejan Singh](https://github.com/tejan-singh)
+- [Sakshi Kedar](https://github.com/sakshikedar)
 - [Rachel Johnson](https://github.com/rachelktyjohnson)
 - [Sagar karki](https://github.com/bytesagar)
 - [Mon Pacleb](https://github.com/bananaKetchup)
