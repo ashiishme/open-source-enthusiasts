@@ -50,7 +50,7 @@ And, don't forget to give a :star:.
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
 -(Aneesh Pyakurel)(https://github.com/Aneesh-design)
-
+- [Rasik Kunwar](https://github.com/rasikkunwar)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
