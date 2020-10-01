@@ -45,6 +45,7 @@ And, don't forget to give a :star:.
 - [Ranjan Shrestha](https://github.com/ranjan435)
 - [Pawan Bantawa](https://github.com/bantawa04)
 - [Kunal Sah](https://github.com/Kunalsah29)
+- [Dipesh Chapagain](https://github.com/itsmedipuu)
 
 ## Contributing
 
