@@ -50,6 +50,9 @@ And, don't forget to give a :star:.
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
 -(Aneesh Pyakurel)(https://github.com/Aneesh-design)
+- [Tek Raj Joshi](https://github.com/T3KRAJ)
+
+
 
 ## Contributing
 
