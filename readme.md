@@ -34,6 +34,7 @@ And, don't forget to give a :star:.
 - [Andikha Dian Nugraha](https://github.com/andikhadian)
 - [Natasha Mathew](https://github.com/Natasha1305)
 - [Pradhumn Dave](https://github.com/davedevelopers)
+- [ImanMohi](https://github.com/ImanMohi)
 
 ## Contributing
 
