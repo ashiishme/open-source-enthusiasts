@@ -48,6 +48,7 @@ And, don't forget to give a :star:.
 - [Dipesh Chapagain](https://github.com/itsmedipuu)
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
+- [Aagan Maskey](https://github.com/aaganmaskey)
 
 ## Contributing
 
