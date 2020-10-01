@@ -22,6 +22,7 @@ And, don't forget to give a :star:.
 - [Md Rasel Bhuyan](https://github.com/Ph4nToM-R4Y)
 - [Bibek Shah](https://github.com/b1bek)
 - [Tejan Singh](https://github.com/tejan-singh)
+- [Sakshi Kedar](https://github.com/sakshikedar)
 - [Rachel Johnson](https://github.com/rachelktyjohnson)
 - [Sagar karki](https://github.com/bytesagar)
 - [Mon Pacleb](https://github.com/bananaKetchup)
@@ -49,8 +50,12 @@ And, don't forget to give a :star:.
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
--(Aneesh Pyakurel)(https://github.com/Aneesh-design)
+- [Aneesh Pyakurel](https://github.com/Aneesh-design)
+- [Prasant Paudel](https://github.com/prasant7878)
+- [Gaurav Jaiswal](https://github.com/Gaurav-Zaiswal)
+- [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
+
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
