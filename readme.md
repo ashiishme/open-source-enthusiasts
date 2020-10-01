@@ -27,6 +27,7 @@ And, don't forget to give a :star:.
 - [Ravi Gupta](https://github.com/guptaravi540)
 - [Kevin Simmons](https://github.com/climbingryan)
 - [Anish Ghimire](https://github.com/anishghimire603)
+- [Peter Haddad](https://github.com/peterhdd)
 
 ## Contributing
 
