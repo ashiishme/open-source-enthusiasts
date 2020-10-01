@@ -40,6 +40,7 @@ And, don't forget to give a :star:.
 - [Jobin Keecheril](https://github.com/jobinkeecheril)
 - [Adiksha Sood](https://github.com/adiksha20)
 - [Madan Poudel](https://github.com/madanPS)
+- [Soel Karki](https://github.com/IamSoel)
 
 ## Contributing
 
