@@ -54,6 +54,7 @@ And, don't forget to give a :star:.
 - [Prasant Paudel](https://github.com/prasant7878)
 - [Gaurav Jaiswal](https://github.com/Gaurav-Zaiswal)
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
+- [Rasik Kunwar](https://github.com/rasikkunwar)
 
 ## Contributing
 
