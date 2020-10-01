@@ -51,6 +51,7 @@ And, don't forget to give a :star:.
 - [Aagan Maskey](https://github.com/aaganmaskey)
 - [Aneesh Pyakurel](https://github.com/Aneesh-design)
 - [Prasant Paudel](https://github.com/prasant7878)
+- [Gaurav Jaiswal](https://github.com/Gaurav-Zaiswal)
 
 ## Contributing
 
