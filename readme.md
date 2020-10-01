@@ -46,10 +46,10 @@ And, don't forget to give a :star:.
 - [Pawan Bantawa](https://github.com/bantawa04)
 - [Kunal Sah](https://github.com/Kunalsah29)
 - [Dipesh Chapagain](https://github.com/itsmedipuu)
-- [Rohit Joshi](https://github.com/rohitjoshi21)
 - [The Sewak](https://github.com/thesewak)
 - [Dilip Paudel](https://github.com/dlppdl)
 - [Aagan Maskey](https://github.com/aaganmaskey)
+- [Aneesh Pyakurel](https://github.com/Aneesh-design)
 - [Prasant Paudel](https://github.com/prasant7878)
 
 ## Contributing
