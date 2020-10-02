@@ -65,6 +65,7 @@ And, don't forget to give a :star:.
 - [Sushan Acharya](https://github.com/sushanacharya)
 - [I-Johnson](https://github.com/I-Johnson)
 - [Srishti Poudel](https://github.com/srishtipoudel)
+- [Mahendra BP](https://github.com/mahendrabp)
 
 ## Contributing
 
