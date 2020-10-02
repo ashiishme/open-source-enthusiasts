@@ -15,7 +15,7 @@ And, don't forget to give a :star:.
 
 To contribute or add yourself in the list with your details. Follow the steps below:
 
-- Fork this repository.
+- Fork this repository & how about :star:? That motivates me.
 - Create a new branch ( better to use your username ).
 - Create a new markdown file `username.md` under the `devotees` directory. You must use your GitHub username.
 - Add your details with proper formatting ( Anything you like ). Check example below.
