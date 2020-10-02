@@ -74,6 +74,7 @@ And, don't forget to give a :star:.
 - [Siddharth Paudel](https://github.com/siddharth009)
 - [Subash Poudel](https://github.com/poudel231)
 - [Suman Pandit](https://github.com/dev-sumanpandit)
+- [Bhawesh Chaudhary](https://github.com/callmebhawesh)
 
 ## Contributing
 
