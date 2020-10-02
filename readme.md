@@ -57,6 +57,7 @@ And, don't forget to give a :star:.
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
 - [Kiran Ghimire](https://github.com/Cimihan123)
+- [Kapil Tekwani](https://github.com/tekwani0495)
 
 ## Contributing
 
