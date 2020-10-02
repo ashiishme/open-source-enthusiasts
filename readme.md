@@ -65,7 +65,7 @@ And, don't forget to give a :star:.
 - [Sushan Acharya](https://github.com/sushanacharya)
 - [I-Johnson](https://github.com/I-Johnson)
 - [Srishti Poudel](https://github.com/srishtipoudel)
-
+- [Subin Aryal](https://github.com/Lusaka8895)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
