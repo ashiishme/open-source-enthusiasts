@@ -79,6 +79,7 @@ And, don't forget to give a :star:.
 - [Bishal Sharma](https://github.com/Bishalsharma733)
 - [Subin Aryal](https://github.com/Lusaka8895)
 - [Sarthak Regmi](https://github.com/sarthakregmi)
+- [Khushi Balodi](https://github.com/khushibalodi)
 
 ## Contributing
 
