@@ -56,6 +56,7 @@ And, don't forget to give a :star:.
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
+- [Subal Ghimire](https://github.com/subal000)
 - [Rohan-Shakya](https://github.com/Rohan-Shakya)
 - [Kiran Ghimire](https://github.com/Cimihan123)
 - [Sanjay Sanjel](https://github.com/sanjaysanjel019)
@@ -65,9 +66,19 @@ And, don't forget to give a :star:.
 - [Sushan Acharya](https://github.com/sushanacharya)
 - [I-Johnson](https://github.com/I-Johnson)
 - [Srishti Poudel](https://github.com/srishtipoudel)
+- [Bikram Kharal](https://github.com/bikramkharal)
+- [Dhiraj3118](https://github.com/Dhiraj3118)
+- [Kapil Tekwani](https://github.com/tekwani0495)
+- [Sailesh Dahal](https://github.com/saileshbro)
+- [Pratik Gyawali](https://github.com/ThePratikGyawali)
+- [Siddharth Paudel](https://github.com/siddharth009)
+- [Subash Poudel](https://github.com/poudel231)
+- [Suman Pandit](https://github.com/dev-sumanpandit)
+- [Bhawesh Chaudhary](https://github.com/callmebhawesh)
 - [Mahendra BP](https://github.com/mahendrabp)
 
 ## Contributing
+
 
 To contribute or add yourself in the list. Follow the steps below:
 
