@@ -70,8 +70,11 @@ And, don't forget to give a :star:.
 - [Dhiraj3118](https://github.com/Dhiraj3118)
 - [Kapil Tekwani](https://github.com/tekwani0495)
 - [Sailesh Dahal](https://github.com/saileshbro)
+- [Pratik Gyawali](https://github.com/ThePratikGyawali)
 
+-
 ## Contributing
+
 
 To contribute or add yourself in the list. Follow the steps below:
 
