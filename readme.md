@@ -62,6 +62,7 @@ And, don't forget to give a :star:.
 - [Shrijan Tripathi](https://github.com/shrijan00003)
 - [Csaju](https://github.com/Aju100)
 - [Nikhil khadka](https://github.com/NikhilKhadka2659)
+- [Sushan Acharya](https://github.com/sushanacharya)
 
 ## Contributing
 
