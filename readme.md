@@ -23,6 +23,17 @@ To contribute or add yourself in the list with your details. Follow the steps be
 
 ### Profile Details Example:
 
+Include details like:
+- Fullname
+- Profile Image
+- Your Portfolio site
+- Your social links ( LinkedIn, Twitter )
+- Your blog link & so on.
+
+Please format it well.
+
+**OR**
+
 You can include the details from your profile `readme.md` section like below:
 
 ![github-profile-example](https://docs.github.com/assets/images/help/repository/profile-with-readme.png)
