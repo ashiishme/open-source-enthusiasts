@@ -66,6 +66,7 @@ And, don't forget to give a :star:.
 - [I-Johnson](https://github.com/I-Johnson)
 - [Srishti Poudel](https://github.com/srishtipoudel)
 - [Bikram Kharal](https://github.com/bikramkharal)
+- [Dhiraj3118](https://github.com/Dhiraj3118)
 
 ## Contributing
 
