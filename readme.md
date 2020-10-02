@@ -71,6 +71,7 @@ And, don't forget to give a :star:.
 - [Kapil Tekwani](https://github.com/tekwani0495)
 - [Sailesh Dahal](https://github.com/saileshbro)
 - [Pratik Gyawali](https://github.com/ThePratikGyawali)
+- [Siddharth Paudel](https://github.com/siddharth009)
 
 -
 ## Contributing
