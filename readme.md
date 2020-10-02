@@ -56,6 +56,8 @@ And, don't forget to give a :star:.
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
+- [Kiran Ghimire](https://github.com/Cimihan123)
+- [Sanjay Sanjel](https://github.com/sanjaysanjel019)
 - [Shrijan Tripathi](https://github.com/shrijan00003)
 
 ## Contributing
