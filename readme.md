@@ -73,8 +73,8 @@ And, don't forget to give a :star:.
 - [Pratik Gyawali](https://github.com/ThePratikGyawali)
 - [Siddharth Paudel](https://github.com/siddharth009)
 - [Subash Poudel](https://github.com/poudel231)
+- [Suman Pandit](https://github.com/dev-sumanpandit)
 
--
 ## Contributing
 
 
