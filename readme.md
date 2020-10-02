@@ -72,6 +72,7 @@ And, don't forget to give a :star:.
 - [Sailesh Dahal](https://github.com/saileshbro)
 - [Pratik Gyawali](https://github.com/ThePratikGyawali)
 - [Siddharth Paudel](https://github.com/siddharth009)
+- [Subash Poudel](https://github.com/poudel231)
 
 -
 ## Contributing
