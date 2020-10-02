@@ -78,6 +78,7 @@ And, don't forget to give a :star:.
 - [Mahendra BP](https://github.com/mahendrabp)
 - [Bishal Sharma](https://github.com/Bishalsharma733)
 - [Subin Aryal](https://github.com/Lusaka8895)
+- [Sarthak Regmi](https://github.com/sarthakregmi)
 
 ## Contributing
 
