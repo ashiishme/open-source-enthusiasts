@@ -56,6 +56,13 @@ And, don't forget to give a :star:.
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
+- [Rohan-Shakya](https://github.com/Rohan-Shakya)
+- [Kiran Ghimire](https://github.com/Cimihan123)
+- [Sanjay Sanjel](https://github.com/sanjaysanjel019)
+- [Shrijan Tripathi](https://github.com/shrijan00003)
+- [Csaju](https://github.com/Aju100)
+- [Nikhil khadka](https://github.com/NikhilKhadka2659)
+- [Sushan Acharya](https://github.com/sushanacharya)
 - [I-Johnson](https://github.com/I-Johnson)
 
 ## Contributing
