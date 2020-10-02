@@ -68,6 +68,7 @@ And, don't forget to give a :star:.
 - [Srishti Poudel](https://github.com/srishtipoudel)
 - [Bikram Kharal](https://github.com/bikramkharal)
 - [Dhiraj3118](https://github.com/Dhiraj3118)
+- [Kapil Tekwani](https://github.com/tekwani0495)
 
 ## Contributing
 
