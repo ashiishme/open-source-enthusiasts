@@ -58,6 +58,7 @@ And, don't forget to give a :star:.
 - [S Sidharth](https://github.com/binarymatter)
 - [Kiran Ghimire](https://github.com/Cimihan123)
 - [Sanjay Sanjel](https://github.com/sanjaysanjel019)
+- [Bhawesh Chaudhary](https://github.com/callmebhawesh)
 
 ## Contributing
 
