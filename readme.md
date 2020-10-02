@@ -69,6 +69,7 @@ And, don't forget to give a :star:.
 - [Bikram Kharal](https://github.com/bikramkharal)
 - [Dhiraj3118](https://github.com/Dhiraj3118)
 - [Kapil Tekwani](https://github.com/tekwani0495)
+- [Sailesh Dahal](https://github.com/saileshbro)
 
 ## Contributing
 
