@@ -57,8 +57,11 @@ And, don't forget to give a :star:.
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
 - [Kiran Ghimire](https://github.com/Cimihan123)
+Pratik Gyawali 
 
+-
 ## Contributing
+
 
 To contribute or add yourself in the list. Follow the steps below:
 
