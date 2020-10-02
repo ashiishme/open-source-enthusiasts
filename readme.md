@@ -13,7 +13,6 @@ And, don't forget to give a :star:.
 
 ## Devotees
 
-- [Ashish Yadav](https://github.com/ashiishme)
 - [Quest-360](https://github.com/Quest-360)
 - [Binit Ghimire](https://github.com/TheBinitGhimire)
 - [Onkar Nardekar](https://github.com/OmiGitProjects)
@@ -82,7 +81,6 @@ And, don't forget to give a :star:.
 - [Khushi Balodi](https://github.com/khushibalodi)
 
 ## Contributing
-
 
 To contribute or add yourself in the list. Follow the steps below:
 
