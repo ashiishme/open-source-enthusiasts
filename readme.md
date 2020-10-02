@@ -56,7 +56,7 @@ And, don't forget to give a :star:.
 - [Tek Raj Joshi](https://github.com/T3KRAJ)
 - [Rasik Kunwar](https://github.com/rasikkunwar)
 - [S Sidharth](https://github.com/binarymatter)
-- [Nikhil khadka](https://github.com/NikhilKhadka2659
+- [Nikhil khadka](https://github.com/NikhilKhadka2659)
 ## Contributing
 
 To contribute or add yourself in the list. Follow the steps below:
