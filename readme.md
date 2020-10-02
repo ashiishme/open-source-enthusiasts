@@ -76,6 +76,7 @@ And, don't forget to give a :star:.
 - [Suman Pandit](https://github.com/dev-sumanpandit)
 - [Bhawesh Chaudhary](https://github.com/callmebhawesh)
 - [Mahendra BP](https://github.com/mahendrabp)
+- [Bishal Sharma](https://github.com/Bishalsharma733)
 
 ## Contributing
 
