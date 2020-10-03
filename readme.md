@@ -34,7 +34,7 @@ Please format it well.
 
 **OR**
 
-You can include the details from your profile `readme.md` section like below:
+You can include the details from your profile `readme.md` section like below or check the profile of [GuillaumeFalourd](https://github.com/ashiishme/open-source-enthusiasts/blob/main/devotees/GuillaumeFalourd.md).
 
 ![github-profile-example](https://docs.github.com/assets/images/help/repository/profile-with-readme.png)
 
