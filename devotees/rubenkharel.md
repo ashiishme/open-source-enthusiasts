@@ -24,8 +24,4 @@ You can Follow me on:<br />
 [![GithubAction!](https://raster.shields.io/badge/Github_actions--9fc?style=for-the-badge&logoColor=deepskyblue&logo=github-actions)](https://github.com/rubenkharel) 
 [![Linux!](https://raster.shields.io/badge/Linux--green?style=for-the-badge&logoColor=white&logo=linux)](https://github.com/rubenkharel) 
 [![BugBounty!](https://raster.shields.io/badge/Bug_Bounty--green?style=for-the-badge&logo=hackerone)](https://github.com/rubenkharel) 
-### Currently Learning <br />
-[![react!](https://raster.shields.io/badge/react--9cf?style=for-the-badge&logo=react)](https://github.com/rubenkharel) 
-[![LaTex!](https://raster.shields.io/badge/LaTex--9cf?style=for-the-badge&logo=latex)](https://github.com/rubenkharel) 
-[![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
-<br />
+
