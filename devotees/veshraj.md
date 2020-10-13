@@ -1,1 +1,3 @@
-[Veshraj Ghimire](https://github.com/V345HR4J)
+A open source tech enthusiast trying to contribue something to opensource and hacktoberfest.
+[Veshraj Ghimire- Github](https://github.com/V345HR4J)
+[Veshraj Ghimire- Linkedin](https://www.linkedin.com/in/veshraj-ghimire-617865168/)
