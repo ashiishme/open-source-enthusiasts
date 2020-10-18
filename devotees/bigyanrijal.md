@@ -1,4 +1,1 @@
-My name is <a href="https://www.github.com/theoptimist76">Bigyan Rijal</a>.
-My portfolio site is <a href="https://www.bigyanrijal.com.np">Bigyan Portfolio</a>.
-You cam visit my <a href="https://www.facebook.com/NeymarJunior11s">facebook profile</a> and
-My <a href="https://www.linkedin.com/in/bigyan-rijal-70bb62179/">linkedin profile</a>.
+My name is <a href="https://www.github.com/theoptimist76">Bigyan Rijal</a>. My portfolio site is <a href="https://www.bigyanrijal.com.np">Bigyan Portfolio</a>. You cam visit my <a href="https://www.facebook.com/NeymarJunior11s">facebook profile</a> and My <a href="https://www.linkedin.com/in/bigyan-rijal-70bb62179/">linkedin profile</a>.
