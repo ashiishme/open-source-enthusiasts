@@ -1,0 +1,1 @@
+My name is <a href="https://www.github.com/subedibimal">Bimal Subedi</a>. My portfolio site is <a href="https://www.subedibimal.com.np">Bimal's Blog</a>. You cam visit my <a href="https://www.facebook.com/bimalsubedi4">facebook profile</a> and my <a href="https://www.linkedin.com/in/bimalsubedi/">linkedin profile</a>.
