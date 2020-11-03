@@ -7,8 +7,7 @@ Hacktoberfest 2020 movement to list out all the open source enthusiasts in one p
 
 #### NOTE:
 
-> I am not sure if Hacktoberfest team will count your PR as valid or label this repository as valid because of lots of spam that contributors created on other repositories to win the swag. The intention of this repository is to help you make your first PR & please continue to send PR on other repositories as well by following the rules. This reposiotry doesn't promotes spam and will continue to accept the PR based on the guidelines even after the `Hacktoberfest` is over.
-**Take this project as a showcase where you can show your profile.**
+> **This project still accepts PR to showcase your profile.**
 
 ## Welcome Devotees :wink:
 
